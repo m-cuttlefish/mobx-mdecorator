@@ -1,0 +1,1 @@
+# mobx-mdecorator

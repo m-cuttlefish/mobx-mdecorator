@@ -1,0 +1,26 @@
+{
+  "name": "mobx-mdecorator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "moyuyc",
+  "license": "MIT",
+  "dependencies": {
+    "mobx": "^3.2.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moyuyc/mobx-mdecorator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/moyuyc/mobx-mdecorator/issues"
+  },
+  "homepage": "https://github.com/moyuyc/mobx-mdecorator#readme"
+}
